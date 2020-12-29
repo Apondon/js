@@ -1,0 +1,5 @@
+1.null和undefined的区别
+
+2.JavaScript的函数调用有哪几种方式？请举例说明，并分析其不同之处
+
+3.prototype(原型)是什么,它是怎么使用的
